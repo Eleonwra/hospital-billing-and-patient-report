@@ -2,8 +2,6 @@
 tbd 
 
 ## Project Workflow
-
-- **Data Cleaning & Validation**: Table Conversion, Deduplication, Datatypes Standardization (Currency, Dates), Text Scrubbing, Data Constraints with custom Error Alerts.
 - **Automated ETL Pipeline (Power Query)**: Table Conversion, Deduplication, Text Scrubbing (string normalization, including whitespace trimming, case correction, and character replacement), and Data Type Standardization (Currency, Dates).
 - **Proactive Data Integrity (Excel)**: Data Validation constraints with custom Error Alerts to prevent upstream data entry errors.
 
