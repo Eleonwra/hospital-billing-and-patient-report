@@ -3,7 +3,7 @@ tbd
 
 ## Project Workflow
 
-- **Data Cleaning & Validation**: Table Conversion, Deduplication, Standarization (Currency, Dates), Text Sxrubbing, Data Constraints with custom Error Alerts.
+- **Data Cleaning & Validation**: Table Conversion, Deduplication, Datatypes Standardization (Currency, Dates), Text Scrubbing, Data Constraints with custom Error Alerts.
 
 ## Tools
 - **Excel**: Data cleaning, auditing, and initial structural analysis
