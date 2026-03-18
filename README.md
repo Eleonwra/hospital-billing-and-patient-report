@@ -4,6 +4,7 @@ tbd
 ## Project Workflow
 - **Automated ETL Pipeline (Power Query)**: Table Conversion, Deduplication, Text Scrubbing (string normalization, including whitespace trimming, case correction, and character replacement), and Data Type Standardization (Currency, Dates).
 - **Proactive Data Integrity (Excel)**: Data Validation constraints with custom Error Alerts to prevent upstream data entry errors.
+- **Dimensional Modeling (Star Schema)**: Star Schema construction  (References) and Relationships establishment (Power Pivot)
 
 ## Tools
 - **Excel**: Data cleaning, auditing, and initial structural analysis
