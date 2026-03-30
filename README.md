@@ -8,6 +8,9 @@ This project is an end-to-end automation of 55,000+ patient records, transformin
 - **Data Architecture (Excel & Power Bi):** Star Schema construction (References) and Relationships establishment (Model View)
 - **Advanced Analytics & Visual Design (Power Bi):** DAX measures, Custom theme from scratch, and Power BI visualization tools for the dashboard.
 - **Deployment & Distribution: (Power Bi Service)** Published to Power BI Service with Automated Scheduled Refresh enabled to recreate a realistic, hands-off business scenario.
+  
+> [!IMPORTANT]
+> **Data Connection:** This Power BI report is live-synced to a private SharePoint source. To view data locally, update the **Data Source Settings** to point to the Excel file in the `/data` folder.
 
 ## Key technical features:
 - **Cloud-Synced Data Source:** Excel file hosted in SharePoint/Teams to bypass local drive dependencies and enable cloud-to-cloud updates.
