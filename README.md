@@ -10,7 +10,7 @@ This project is an end-to-end automation of 55,000+ patient records, transformin
 - **Deployment & Distribution: (Power Bi Service)** Published to Power BI Service with Automated Scheduled Refresh enabled to recreate a realistic, hands-off business scenario.
   
 > [!Note]
-> **Data Connection:** This Power BI report is live-synced to a private SharePoint source.
+> This Power BI report is live-synced to a **private** SharePoint source.
 > To view data locally:
 > 1. Open Power BI Desktop.
 > 2. Go to **File > Options and settings > Data source settings**.
