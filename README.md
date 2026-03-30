@@ -11,7 +11,6 @@ This project is an end-to-end automation of 55,000+ patient records, transformin
   
 > [!Note]
 > **Data Connection:** This Power BI report is live-synced to a private SharePoint source.
-
 > To view data locally:
 > 1. Open Power BI Desktop.
 > 2. Go to **File > Options and settings > Data source settings**.
